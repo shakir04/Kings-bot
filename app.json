@@ -1,9 +1,9 @@
 {
-    "name": "King-bot",
+    "name": "Kings-bot",
     "description": "The Telegram Autofilter Bot",
     "logo": "https://graph.org/file/b7e8484f6395a180b6380.jpg",
     "keywords": ["Telegram", "auto-filter", "modderking"],
-    "repository": "https://github.com/shakir04/King-bot",
+    "repository": "https://github.com/shakir04/Kings-bot",
     "env": {
         "WEBHOOK": {
             "description": "True/False if your server is web support required? the value is True else False",
@@ -76,7 +76,7 @@
         },
         "SUPPORT_CHAT": {
             "description": "Updated Channel Username Without @ Not Chanel ID",
-            "value": "MKN_BOTZ_DISCUSSION_GROUP",
+            "value": "PAID_METHOD_ZONE_DISCUSSION",
             "required": false
         },
         "IMDB": {
