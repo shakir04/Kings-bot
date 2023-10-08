@@ -15,9 +15,9 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
 ✯ Mʏ Vᴇʀꜱɪᴏɴ: shαkír's вσt 5.5.0</b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://github.com/shakir04/King-bot>ｍｏｄｄｅｒ ｋｉｎｇ</a>
+- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://github.com/shakir04/Kings-bot>ｍｏｄｄｅｒｋｉｎｇ</a>
 
-<b>ᴅᴇᴠ: <a herf=https://t.me/mr_shakir_04>ｍｏｄｄｅｒ ｋｉｎｇ</a></b>"""
+<b>ᴅᴇᴠ: <a herf=https://t.me/mr_shakir_04>ｍｏｄｄｅｒｋｉｎｇ</a></b>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
