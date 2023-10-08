@@ -137,7 +137,7 @@ def list_to_str(k):
     else:
         return ' '.join(f'{elem}, ' for elem in k)
 
-__repo__ = "https://github.com/shakir04/King-Bot"
+__repo__ = "https://github.com/shakir04/Kings-Bot"
 __version__ = "King-bot ᴠ4.5.0"
 __license__ = "GNU GENERAL PUBLIC LICENSE V2"
 __copyright__ = "Copyright (C) 2023-present king <https://github.com/shakir04>"
