@@ -13,7 +13,7 @@ def is_enabled(value, default):
 # PyroClient Setup 
 API_ID = int(environ['22157255'])
 API_HASH = environ['e4531a862764b731c9055bfe7ee382b1']
-BOT_TOKEN = environ['6300681229:AAHSiSNLB7fx2B-THF8kdjgyk6J-aUNNo6U']
+BOT_TOKEN = environ['6044981865:AAFnwSBC9frPhIS7OAdQkaAY2AfCOwj7IdQ']
 
 # Bot settings
 WEBHOOK = bool(environ.get("WEBHOOK", True)) # for web support on/off
@@ -52,8 +52,8 @@ BUTTON_LOCK = is_enabled(environ.get("BUTTON_LOCK", "True"), True)
 RemoveBG_API = environ.get("RemoveBG_API", "")
 
 # url shortner
-SHORT_URL = environ.get("SHORT_URL")
-SHORT_API = environ.get("SHORT_API")
+SHORT_URL = environ.get("https://link4earn.com/")
+SHORT_API = environ.get("22f9c6cd7920cb78938c4127168312991957b434")
 
 # Others
 IMDB_DELET_TIME = int(environ.get('IMDB_DELET_TIME', "300"))
